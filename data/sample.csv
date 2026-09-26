@@ -1,0 +1,11 @@
+state,crop,area,production,rainfall,fertilizer,pesticide,yield
+Andhra Pradesh,Rice,120,420,820,150,30,3.50
+Andhra Pradesh,Cotton,150,480,760,170,35,3.20
+Telangana,Rice,110,390,850,145,28,3.55
+Telangana,Cotton,140,450,790,165,32,3.21
+Karnataka,Rice,100,350,680,130,25,3.50
+Karnataka,Cotton,130,410,640,155,30,3.15
+Tamil Nadu,Rice,90,330,920,125,22,3.67
+Tamil Nadu,Cotton,115,390,880,145,27,3.39
+Maharashtra,Cotton,180,510,620,190,40,2.83
+Maharashtra,Soybean,160,460,590,170,38,2.88
